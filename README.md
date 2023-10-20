@@ -28,7 +28,7 @@
 ### Mis logros y experiencias:
 
 - 💡 Desarrollé de forma independiente una plataforma educativa que permite a las instituciones gestionar eficientemente la información y comunicación con los alumnos.
-- 🏗️ Colaboré con el INCOPY en la creación de un software para el control y reporte de proyectos de obra pública, brindando soluciones efectivas a sus necesidades.
+- 🏗️ Colaboré con el INCCOPY en la creación de un software para el control y reporte de proyectos de obra pública, brindando soluciones efectivas a sus necesidades.
 - 🚀 Mi implementación más reciente fue para el Instituto Universitario de Yucatán, donde desarrollé un software que automatiza y simplifica el proceso de generación de nóminas para sus profesores.
 
 Siempre estoy buscando aprender, crecer y enfrentar nuevos desafíos. Si tienes alguna idea o proyecto en mente en el que pueda contribuir, no dudes en contactarme. 
